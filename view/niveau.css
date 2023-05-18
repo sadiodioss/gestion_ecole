@@ -1,0 +1,19 @@
+
+table{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+table,
+th,
+td{
+    border: 2px solid red;
+}
+th,
+td{
+    padding: 24px;
+    text-align: center;
+}
+.a{
+    width: 40%;
+    
+}

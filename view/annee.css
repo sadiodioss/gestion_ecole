@@ -1,0 +1,33 @@
+conteneur{
+    margin-top: 50px;
+    border-radius: 3px solid red;
+    margin-left: 34%;
+     
+}
+h3{
+    /* border: 1 solid red; */
+    text-align: center;
+    color: white;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+/* form{
+    border: 1 solid red;
+} */
+body{ 
+     background: url('/home/sadio/Bureau/projet du mois/darrah/view/nuit.webp');
+     background-size: cover;
+   }
+   .well
+ {
+    background: rgba(157, 78, 47, 0.192);
+    border: none;
+    border-radius: 15px/15px;
+    box-shadow: 0px 0px 50px red;
+    margin-top: 10%;
+    margin-left: 40%;
+   
+ }
+ label{
+    color: with;
+ }

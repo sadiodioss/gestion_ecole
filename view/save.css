@@ -1,0 +1,35 @@
+.conteneur{
+    margin-top: 50px;
+    
+     
+}
+h3{
+    /* border: 1 solid red; */
+    text-align: center;
+    color: white;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+/* form{
+    border: 1 solid red;
+} */
+body{ 
+     background: url('/home/sadio/Bureau/projet du mois/darrah/view/ecole.jpeg');
+     background-size: cover;
+   }
+.well
+ {
+    background: rgba(157, 78, 47, 0.782);
+    border: none;
+    border-radius: 15px/15px;
+    box-shadow: 0px 0px 50px rgb(12, 10, 23);
+    margin-top: 10%;
+    margin-left: 40%;
+   
+ }
+ label{
+    color: with;
+ }
+ button{
+    margin-top: 15px;
+ }
